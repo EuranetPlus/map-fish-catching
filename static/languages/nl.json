@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Wat is het visvangstrecord van de Europese Unie?",
+  "subtitle": "De vangsten in de EU werden in 2025 geschat op 2,81 miljoen ton levend gewicht, waarmee ze gelijk bleven aan die van 2024.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De gegevens voor 2025 voor Letland, Portugal en Italië zijn vertrouwelijk. Visvangsten omvatten vis, weekdieren, schaaldieren en andere waterdieren, restanten en waterplanten die voor alle doeleinden worden gevangen door alle typen en klassen vaartuigen, vistuig en vissers, actief in alle zeven zeegebieden die wettelijk onder de EU-statistische regelgeving vallen. Ze omvatten vangsten in de open zee, offshore, kust- of brakwatergebieden. De productie uit aquacultuur en vangsten in zoet water zijn uitgesloten.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "tonnen levend gewicht"
 }
