@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "What is the European Union's fish-catching record?",
+  "subtitle": "In 2025, EU catches were estimated at 2.81 million tonnes in live weight therefore remaining unchanged from 2024.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "2025 Data for Latvia, Portugal and Italy are confidential. Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "tonnes live weight"
 }
