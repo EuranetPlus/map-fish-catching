@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kakšen je rekord Evropske unije pri ulovu rib?",
+  "subtitle": "Leta 2025 je bil ulov EU ocenjen na 2,81 milijona ton žive teže, kar je nespremenjeno glede na leto 2024.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Podatki za leto 2025 za Latvijo, Portugalsko in Italijo so zaupni. Ulov rib zajema ribe, mehkužce, rake in druge vodne živali, ostanke in vodne rastline, ki jih lovijo za vse namene, vse vrste in razredi plovil, orodij in ribiči, ki delujejo na vseh sedmih morskih območjih, ki jih zakonito zajemajo statistični predpisi EU. Zajemajo ulov na ribolovnih območjih odprtega morja, na odprtem morju, v obalnih območjih ali območjih s brakično vodo. Proizvodnja iz akvakulture in ulov v sladki vodi sta izključena.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "tone žive teže"
 }
