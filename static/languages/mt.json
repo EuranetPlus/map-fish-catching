@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'inhu r-rekord tal-Unjoni Ewropea fil-qbid tal-ħut?",
+  "subtitle": "Fl-2025, il-qabdiet tal-UE kienu stmati għal 2.81 miljun tunnellata f'piż ħaj u għalhekk baqgħu l-istess mill-2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-dejta tal-2025 għal-Latvja, il-Portugall u l-Italja hija kunfidenzjali. Il-qabdiet tal-ħut ikopru ħut, molluski, krustaċji u annimali akkwatiċi oħra, residwi u pjanti akkwatiċi li jittieħdu għal kull skop, minn kull tip u klassi ta’ bastiment, tagħmir u sajjieda, li jitħaddmu fis-seba’ żoni marini kollha legalment koperti mir-regolamenti statistiċi tal-UE. Dawn ikopru qabdiet f’żoni tas-sajd f’baħar miftuħ, żoni ’l barra mill-kosta, żoni qrib il-kosta jew żoni ta’ ilma salmastru. Il-produzzjoni mill-akkwakultura u l-qabdiet fl-ilma ħelu huma esklużi.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "tunnellati piż ħaj"
 }
