@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jaký je rekord Evropské unie v úlovku ryb?",
+  "subtitle": "V roce 2025 se úlovky v EU odhadovaly na 2,81 milionu tun živé hmotnosti, takže zůstaly oproti roku 2024 nezměněny.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje za rok 2025 pro Lotyšsko, Portugalsko a Itálii jsou důvěrné. Úlovky ryb zahrnují ryby, měkkýše, korýše a další vodní živočichy, zbytky a vodní rostliny, které jsou odloveny pro všechny účely, všemi typy a třídami plavidel, zařízení a rybáři, kteří provozují rybolov ve všech sedmi mořských oblastech, na které se vztahují statistické předpisy EU. Zahrnují úlovky v oblastech rybolovu na volném moři, v pobřežních oblastech nebo v oblastech s brakickou vodou. Produkce z akvakultury a úlovky ve sladké vodě jsou vyloučeny.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "tun živé hmotnosti"
 }
