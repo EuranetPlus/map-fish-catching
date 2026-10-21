@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvad er Den Europæiske Unions fangststatistik?",
+  "subtitle": "I 2025 blev EU's fangster anslået til 2,81 millioner tons levende vægt og forblev derfor uændrede fra 2024.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Data for Letland, Portugal og Italien for 2025 er fortrolige. Fiskefangster omfatter fisk, bløddyr, krebsdyr og andre vanddyr, restprodukter og vandplanter, der fanges til alle formål af alle typer og klasser af fartøjer, redskaber og fiskere, der opererer i alle syv havområder, der er lovligt omfattet af EU's statistikforordninger. De dækker fangster i områder med åbent havfiskeri, offshore-, kyst- eller brakvandsområder. Produktion fra akvakultur og fangster i ferskvand er ikke omfattet.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
-  "tooltipExtraInfoLabel": "Klik her"
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "tons levende vægt"
 }
