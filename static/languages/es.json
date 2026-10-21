@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuál es el récord de captura de peces de la Unión Europea?",
+  "subtitle": "En 2025, las capturas de la UE se estimaron en 2,81 millones de toneladas en peso vivo, manteniéndose así sin cambios con respecto a 2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los datos de 2025 para Letonia, Portugal e Italia son confidenciales. Las capturas de peces incluyen peces, moluscos, crustáceos y otros animales acuáticos, residuos y plantas acuáticas capturados para cualquier fin, por todo tipo de embarcaciones, artes de pesca y pescadores, en las siete zonas marinas legalmente cubiertas por la normativa estadística de la UE. Incluyen las capturas en zonas de pesca de alta mar, zonas costeras y de aguas salobres. Se excluyen la producción de acuicultura y las capturas en agua dulce.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "toneladas de peso vivo"
 }
