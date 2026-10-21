@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cén taifead gabhála éisc atá ag an Aontas Eorpach?",
+  "subtitle": "In 2025, meastar gur ghabhálacha 2.81 milliún tonna de mheáchan beo a bhí san AE, agus dá bhrí sin níor athraigh siad ó 2024.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tá sonraí 2025 don Laitvia, don Phortaingéil agus don Iodáil rúnda. Clúdaíonn gabhálacha éisc iasc, moilisc, crústaigh agus ainmhithe uisceacha eile, iarmhair agus plandaí uisceacha a thógtar chun gach críche, ag gach cineál agus aicme soithigh, trealaimh agus iascairí, a oibrítear sna seacht limistéar muirí go léir atá cumhdaithe go dleathach ag rialacháin staidrimh an AE. Clúdaíonn siad gabhálacha i limistéir iascaireachta arda farraige, amach ón gcósta, cladaigh nó in uisce goirt. Ní áirítear an táirgeadh ó dhobharshaothrú ná gabhálacha in uisce úr.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "tonna meáchain bheo"
 }
