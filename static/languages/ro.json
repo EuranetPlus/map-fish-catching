@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care este bilanțul Uniunii Europene în materie de pescuit?",
+  "subtitle": "În 2025, capturile UE au fost estimate la 2,81 milioane de tone în greutate în viu, rămânând astfel neschimbate față de 2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Datele din 2025 pentru Letonia, Portugalia și Italia sunt confidențiale. Capturile de pește includ pești, moluște, crustacee și alte animale acvatice, reziduuri și plante acvatice care sunt pescuite în toate scopurile, de către toate tipurile și clasele de nave, echipamente și pescari, operați în toate cele șapte zone marine acoperite din punct de vedere legal de reglementările statistice ale UE. Acestea acoperă capturile din zonele de pescuit în larg, în largul mării, în zonele de coastă sau în ape sărate. Producția din acvacultură și capturile în apă dulce sunt excluse.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
-  "tooltipExtraInfoLabel": "Click aici"
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "tone greutate vie"
 }
