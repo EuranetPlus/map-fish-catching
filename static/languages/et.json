@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Milline on Euroopa Liidu kalapüügi statistika?",
+  "subtitle": "2025. aastal hinnati ELi saagiks eluskaalus 2,81 miljonit tonni, seega jäi see 2024. aastaga võrreldes samaks.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Läti, Portugali ja Itaalia 2025. aasta andmed on konfidentsiaalsed. Kalasaak hõlmab kalu, molluskeid, koorikloomi ja muid veeloomi, jääke ja veetaimi, mis on püütud igasugustel eesmärkidel igat tüüpi ja klassi laevade, püügivahendite ja kalurite poolt kõigis seitsmes merepiirkonnas, mis on seaduslikult hõlmatud ELi statistikaalaste eeskirjadega. Need hõlmavad saaki avamere kalapüügipiirkondades, avamerel, rannikul või riimvees. Vesiviljeluse toodang ja mageveesaak on välja arvatud.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "tonni eluskaalu"
 }
