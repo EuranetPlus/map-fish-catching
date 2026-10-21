@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Mikä on Euroopan unionin kalansaalitilasto?",
+  "subtitle": "Vuonna 2025 EU:n saaliiden arvioitiin olevan 2,81 miljoonaa tonnia elopainona, joten ne pysyivät muuttumattomina vuodesta 2024.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Latvian, Portugalin ja Italian vuoden 2025 tiedot ovat luottamuksellisia. Kalasaaliit kattavat kalat, nilviäiset, äyriäiset ja muut vesieläimet, niiden jäämät ja vesikasvit, jotka on pyydetty kaikkiin tarkoituksiin kaikentyyppisillä ja -luokilla aluksilla, pyydyksillä ja kalastajilla kaikilla seitsemällä EU:n tilastosäännösten kattamalla merialueella. Saaliit kattavat avomeren kalastusalueet, avomeren kalastusalueet, rannikkoalueet ja murtovesialueet. Vesiviljelyn tuotanto ja makean veden saaliit eivät sisälly tähän.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "tonnia elopainoa"
 }
