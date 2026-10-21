@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāds ir Eiropas Savienības zivju nozvejas rādītājs?",
+  "subtitle": "2025. gadā ES nozveja tika lēsta 2,81 miljona tonnu dzīvsvara apmērā, tāpēc tā saglabājās nemainīga salīdzinājumā ar 2024. gadu.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "2025. gada dati par Latviju, Portugāli un Itāliju ir konfidenciāli. Zivju nozveja ietver zivis, gliemenes, vēžveidīgos un citus ūdensdzīvniekus, atliekas un ūdensaugus, kas nozvejoti visiem mērķiem, izmantojot visu veidu un klašu kuģus, rīkus un zvejniekus, kas darbojas visās septiņās jūras teritorijās, uz kurām attiecas ES statistikas noteikumi. Tā ietver nozveju tāljūras zvejas apgabalos, atklātā jūrā, piekrastes vai iesāļūdens apgabalos. Akvakultūras produkcija un nozveja saldūdenī nav iekļauta.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "dzīvsvara tonnas"
 }
