@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "What is the European Union's fish-catching record?",
-  "subtitle": "In 2025, EU catches were estimated at 2.81 million tonnes in live weight therefore remaining unchanged from 2024.",
+  "title": "How much fish does the EU catch?",
+  "subtitle": "In 2025, the EU's total catch was estimated at 2.81 million tonnes of live weight, a figure that remained unchanged from the previous year.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,null,false,,,,,,,,,\nBelgium,BE,16478,false,,,,,,,,,\nBulgaria,BG,6549,false,,,,,,,,,\nCyprus,CY,1121,false,,,,,,,,,\nCzechia,CZ,null,false,,,,,,,,,\nGermany,DE,181579,false,,,,,,,,,\nDenmark,DK,520718,false,,,,,,,,,\nEstonia,EE,54944,false,,,,,,,,,\nGreece,EL,41561,false,,,,,,,,,\nSpain,ES,680955,false,,,,,,,,,\nFinland,FI,93354,false,,,,,,,,,\nFrance,FR,442800,false,,,,,,,,,\nCroatia,HR,39745,false,,,,,,,,,\nHungary,HU,null,false,,,,,,,,,\nIreland,IE,null,false,,,,,,,,,\nItaly,IT,114532,false,,,,,,,,,\nLithuania,LT,69949,false,,,,,,,,,\nLuxembourg,LU,null,false,,,,,,,,,\nLatvia,LV,null,false,,,,,,,,,\nMalta,MT,1602,false,,,,,,,,,\nNetherlands,NL,273510,false,,,,,,,,,\nPoland,PL,129056,false,,,,,,,,,\nPortugal,PT,null,false,,,,,,,,,\nRomania,RO,2521,false,,,,,,,,,\nSweden,SE,141701,false,,,,,,,,,\nSlovenia,SI,91,false,,,,,,,,,\nSlovakia,SK,null,false,,,,,,,,,",
   "parsedData": [
@@ -428,7 +429,7 @@ export const mapConfig = writable({
   "textSource": "Eurostat (2026)",
   "textNoteAvailable": true,
   "textNoteDescription": "Note",
-  "textNote": "2025 Data for Latvia, Portugal and Italy are confidential. Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
+  "textNote": "2025 data for Latvia, Portugal and Italy are confidential. Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
   "textDataAccessAvailable": true,
   "linkDataAccessDescription": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/fish_ca_main/default/table?lang=en",
@@ -438,10 +439,10 @@ export const mapConfig = writable({
   "customUnitLabel": "tonnes live weight",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "What is the European Union's fish-catching record?",
-    "subtitle": "In 2025, EU catches were estimated at 2.81 million tonnes in live weight therefore remaining unchanged from 2024.",
+    "title": "How much fish does the EU catch?",
+    "subtitle": "In 2025, the EU's total catch was estimated at 2.81 million tonnes of live weight, a figure that remained unchanged from the previous year.",
     "textNoteDescription": "Note",
-    "textNote": "2025 Data for Latvia, Portugal and Italy are confidential. Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
+    "textNote": "2025 data for Latvia, Portugal and Italy are confidential. Fish catches cover fish, molluscs, crustaceans and other aquatic animals, residues and aquatic plants that are taken for all purposes, by all types and class of vessel, gear and fishermen, operated in all the seven marine areas legally covered by EU statistical regulations. They cover catches in high-sea fishing areas, offshore, inshore or brackish water areas. The production from aquaculture and catches in fresh water are excluded.",
     "textSourceDescription": "Source",
     "textSource": "Eurostat (2026)",
     "linkDataAccessDescription": "Access the data",
